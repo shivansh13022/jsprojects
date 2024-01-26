@@ -11,5 +11,5 @@ function display(){
 
 next.addEventListener('click',(e)=>{
     display();
-    console.log("clicked")
+
 })
